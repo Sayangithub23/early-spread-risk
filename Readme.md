@@ -51,7 +51,7 @@ The project includes a **Streamlit-based dashboard** where you can:
 
 ![Demo](screenshots/low-full.png)
 
-<!-- ![Demo](screenshots/High-full.png) -->
+![Demo](screenshots/High-full.png)
 
 ![Demo](screenshots/low.png)
 
