@@ -1,0 +1,61 @@
+# =========================
+# Secrets / Credentials
+# =========================
+.env
+.env.*
+*.env
+secrets.py
+config.py
+credentials.py
+
+# Reddit / API keys
+reddit_credentials.json
+praw.ini
+
+# =========================
+# ML Models & Artifacts
+# =========================
+*.joblib
+*.pkl
+*.h5
+*.onnx
+
+# =========================
+# Data Files
+# =========================
+*.csv
+*.json
+*.zip
+*.tar
+*.tar.gz
+*.bz2
+
+# Large datasets
+pheme*/
+extended-pheme*/
+
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+
+# =========================
+# ipymb checkpoints Cache
+# =========================
+.ipynb_checkpoints/
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.venv/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+Note.txt

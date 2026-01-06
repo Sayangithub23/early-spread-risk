@@ -1,0 +1,8 @@
+streamlit
+praw
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+python-dotenv
